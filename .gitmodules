@@ -1,3 +1,4 @@
 [submodule "TestLib"]
 	path = TestLib
-	url = https://github.com/jvlamy/TestLib.git
+	url = E:\\Bitbucket\\TestLib
+	branch = master
