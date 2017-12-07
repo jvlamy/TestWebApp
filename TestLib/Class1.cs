@@ -11,5 +11,7 @@ namespace TestLib
         private string s4;
         private string s5;
         private string s6;
+
+        private string s7;
     }
 }
