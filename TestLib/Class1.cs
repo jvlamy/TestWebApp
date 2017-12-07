@@ -9,5 +9,6 @@ namespace TestLib
         private string s3;
         private string s4;
         private string s5;
+        private string s6;
     }
 }
