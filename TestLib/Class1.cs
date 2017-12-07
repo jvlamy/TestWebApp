@@ -6,6 +6,7 @@ namespace TestLib
     {
         private string testLocal;
         private string testLocal2;
+        private string testLocal3;
         private string s3;
         private string s4;
         private string s5;
