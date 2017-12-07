@@ -8,5 +8,6 @@ namespace TestLib
         private string testLocal2;
         private string s3;
         private string s4;
+        private string s5;
     }
 }
